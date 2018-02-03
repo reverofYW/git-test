@@ -1,4 +1,8 @@
 test02 file generated..
 
+<<<<<<< HEAD
 hotFix 단계에서 파일을 수정합니다...
 
+=======
+develop 브랜치에서 파일을 수정합니다...
+>>>>>>> develop
