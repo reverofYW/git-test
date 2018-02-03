@@ -1,1 +1,4 @@
 test02 file generated..
+
+hotFix 단계에서 파일을 수정합니다...
+
